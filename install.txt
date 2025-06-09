@@ -1,1 +1,6 @@
-
+dnspython
+python-whois
+whois
+ipwhois
+requests
+colorama
